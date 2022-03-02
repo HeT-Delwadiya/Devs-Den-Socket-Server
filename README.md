@@ -37,20 +37,6 @@ $ cd project
 $ npm install
 ```
 
-## Setup
-
-```
- Create .env file that include:
-
-  * DB_URL=YOUR_MONGO_DB_URL
-  * PORT=8000
-  * SECRET=Token Secret for jsonwebtoken
-  * BRAINTREE_MERCHANTID=YOUR_MERCHANTID
-  * BRAINTREE_PUBLIC_KEY=YOUR_PUBLIC_KEY
-  * BRAINTREE_PRIVATE_KEY=YOUR_PRIVATE_KEY
-```
-
-
 ## Run the application for development
 
 ```
