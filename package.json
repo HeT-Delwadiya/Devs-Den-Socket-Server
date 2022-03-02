@@ -1,0 +1,19 @@
+{
+       "name": "socket",
+       "version": "1.0.0",
+       "description": "socket server for dev's den project",
+       "main": "app.js",
+       "scripts": {
+              "test": "echo \"Error: no test specified\" && exit 1",
+              "start": "node app.js"
+       },
+       "author": "HeT",
+       "license": "ISC",
+       "dependencies": {
+              "dotenv": "^16.0.0",
+              "socket.io": "^4.4.1"
+       },
+       "engines": {
+              "node": "14.17.3"
+       }
+}
