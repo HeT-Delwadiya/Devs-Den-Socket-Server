@@ -37,7 +37,7 @@ A platform built with MERN stack, and utilizes third party API's. This platform 
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/HeT-Delwadiya/Devs-Den-Socket-Server.git
+$ git clone https://github.com/HeT-Delwadiya/Devs-Den-Socket-Server.git  
 $ cd project
 $ npm install
 ```
